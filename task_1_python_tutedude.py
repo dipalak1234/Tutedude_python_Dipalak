@@ -1,0 +1,8 @@
+Num1=input('Enter the 1st number: ')
+Num2=input('Enter the 2nd number: ')
+Num1=float(Num1)
+Num2=float(Num2)
+print('Addition :',Num1+Num2)
+print('Subtraction :',Num1-Num2)
+print('Multiplication :',Num1*Num2)
+print('Division :',Num1/Num2)
